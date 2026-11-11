@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-night-950: #081226;
+  --color-night-900: #0b1a33;
+  --color-night-800: #12264a;
+  --color-night-700: #1b3563;
+  --color-accent: #2f6fed;
+  --color-canvas: #f4f6fa;
+  --color-line: #e3e8f0;
+  --color-ink: #1c2433;
+  --color-muted: #5b6577;
+  --color-good: #15803d;
+  --color-good-bg: #e7f6ec;
+  --color-warn: #b45309;
+  --color-warn-bg: #fdf1e0;
+  --color-bad: #c02626;
+  --color-bad-bg: #fdeaea;
+  --font-sans: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-line bg-white;
+  }
+  .btn {
+    @apply inline-flex cursor-pointer items-center justify-center gap-1.5 rounded-lg border border-line bg-white px-3 py-2 text-sm font-medium text-ink transition-colors hover:bg-canvas disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply border-night-800 bg-night-800 text-white hover:bg-night-700;
+  }
+  .btn-danger {
+    @apply border-bad bg-bad text-white hover:bg-bad/90;
+  }
+  .btn-icon {
+    @apply inline-flex size-8 cursor-pointer items-center justify-center rounded-md text-muted transition-colors hover:bg-canvas hover:text-ink;
+  }
+  .input {
+    @apply w-full rounded-lg border border-line bg-white px-3 py-2 text-sm text-ink outline-none placeholder:text-muted/70 focus:border-accent focus:ring-2 focus:ring-accent/20;
+  }
+  .label {
+    @apply mb-1 block text-sm font-medium text-ink;
+  }
+}
+
+dialog::backdrop {
+  background: rgb(8 18 38 / 0.55);
+}
