@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/life-os-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/life-os-demo/_next/static/chunks/0j75l-n-mi33m.js"
+4:"/life-os-demo/_next/static/chunks/3adxc8q7_tu_h.js"
+5:"/life-os-demo/_next/static/chunks/0kyac1ubv-1tl.js"
+6:I[38004,["$2","$3","$4","$5"],"DataProvider"]
+7:I[83036,["$2","$3","$4","$5"],"ToastProvider"]
+8:I[49830,["$2","$3","$4","$5"],"AppShell"]
+9:I[39756,["$2","$3","$4","$5"],"default"]
+a:"/life-os-demo/_next/static/chunks/3oktem-qf_w19.js"
+b:I[58298,["$2","$3","$4","$5","$a"],"default"]
+c:I[37457,["$2","$3","$4","$5"],"default"]
+d:I[22016,["$2","$3","$4","$5"],""]
+12:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2","$3","$4","$5"],"$15"]
+18:"MetadataBoundary"
+19:I[97367,["$2","$3","$4","$5"],"$18"]
+1b:"/life-os-demo/_next/static/chunks/0ldu6wwo1f7_p.js"
+1c:I[63491,["$2","$3","$4","$5","$1b"],"default"]
+:HL["/life-os-demo/_next/static/chunks/1xxt3uc1o7gp1.css","style"]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/life-os-demo/_next/static/chunks/2is_hyuhkvx9k.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/life-os-demo/_next/static/chunks/2dxs2b4h0cksd.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":{"n":"module","t":"d","k":"rubrica","s":["archivio","assistente","il-mio-anno","impostazioni","scadenziario"]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","rubrica",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/life-os-demo/_next/static/chunks/1xxt3uc1o7gp1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/life-os-demo/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/life-os-demo/_next/static/chunks/0j75l-n-mi33m.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/life-os-demo/_next/static/chunks/3adxc8q7_tu_h.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/life-os-demo/_next/static/chunks/0kyac1ubv-1tl.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"it","children":["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/life-os-demo/_next/static/chunks/3oktem-qf_w19.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"card mx-auto mt-10 max-w-md p-6 text-center","children":[["$","h1",null,{"className":"text-lg font-semibold text-night-900","children":"Pagina non trovata"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"L'indirizzo non corrisponde a nessun modulo."}],["$","$Ld",null,{"href":"/","className":"btn btn-primary mt-4","children":"Torna alla dashboard"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/life-os-demo/_next/static/chunks/1xxt3uc1o7gp1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"kc_9hfViq25VP7qZkD2T7"}
+1d:"/life-os-demo/_next/static/chunks/2is_hyuhkvx9k.js"
+1e:"/life-os-demo/_next/static/chunks/2dxs2b4h0cksd.js"
+1f:I[64625,["$2","$3","$4","$5","$1d","$1e"],"ModulePage"]
+f:C
+11:["$","$13",null,{"children":["$","$L1f",null,{"slug":"rubrica"}]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0b1a33"}]]
+20:I[27201,["$2","$3","$4","$5"],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"LIFE OS"}],["$","meta","1",{"name":"description","content":"Gestionale personale."}],["$","link","2",{"rel":"manifest","href":"/life-os-demo/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"LIFE OS"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","7",{"rel":"icon","href":"/life-os-demo/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"apple-touch-icon","href":"/life-os-demo/apple-icon.png?apple-icon.2xpuylb7p51qn.png","sizes":"180x180","type":"image/png"}],["$","$L20","9",{}]]

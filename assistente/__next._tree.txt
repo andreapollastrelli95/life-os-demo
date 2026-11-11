@@ -1,0 +1,4 @@
+:HL["/life-os-demo/_next/static/chunks/1xxt3uc1o7gp1.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"assistente","h":96,"c":"$Q2"}]]
+0:{"b":"kc_9hfViq25VP7qZkD2T7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
